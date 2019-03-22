@@ -12,7 +12,7 @@ Place @ # 304, Building 1, Innovation Park
 | :--: | :----------------------------------------------------------: | :--------: | :-----------------------: | :-----------------------------------------: |
 |  01  | [Introduction and GPIO](https://github.com/sustech-sdim/STM32-Tutorial/blob/master/Lecture-1/SDIM-STM32-1-Introduction.pdf) | 9th March  | Saturday<br />14:00-16:00 | Room 304, Building 1, <br />Innovation Park |
 |  02  | [Communication](https://github.com/sustech-sdim/STM32-Tutorial/blob/master/Lecture-2/SDIM-2-STM32-Communication.pdf) | 16th March | Saturday<br />14:00-16:00 | Room 304, Building 1, <br />Innovation Park |
-|  03  |                           Sensors                            |     --     |            --             |                     --                      |
+|  03  | [Sensors](https://github.com/sustech-sdim/STM32-Tutorial/blob/master/Lecture-3/SDIM-3-STM32-Sensors.pdf) | 23th March | Saturday<br />14:00-16:00 | Room 304, Building 1, <br />Innovation Park |
 |  04  |                        Timer and PWM                         |     --     |            --             |                     --                      |
 |  05  |                         RoboMaster 1                         |     --     |            --             |                     --                      |
 |  06  |                         RoboMaster 2                         |     --     |            --             |                     --                      |
